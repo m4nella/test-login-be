@@ -1,0 +1,57 @@
+table.sample {
+    border-width: 5px;
+    border-spacing: 2px;
+    border-style: outset;
+    border-color: gold;
+    border-collapse: separate;
+    background: blue url(https://anlucas.neocities.org/bluetexture.gif) repeat;
+}
+
+.container {
+    margin: 20px;
+    padding: 10px;
+    background-color: #474747; /* cor de fundo do conteúdo */
+}
+
+header {
+    text-align: center;
+    padding: 20px 0;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.kawaii-section {
+    text-align: center;
+    padding: 20px;
+    background-color: #000000; /* cor de fundo suave para seções kawaii */
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* sombra suave */
+    margin: 10px;
+}
+
+.kawaii-section h2 {
+    color: yellow; /* cor do título kawaii */
+    font-family: 'Comic Sans';
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #003344; /* cor de fundo suave para o rodapé */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* sombra suave */
+    color: rgb(255, 255, 255);
+}
+
+.cavera1{
+    justify-content: space-around;
+    display: flex;
+}
+
+.cavera2{
+    justify-content: space-around;
+    display: flex;
+}
