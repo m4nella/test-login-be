@@ -1,0 +1,22 @@
+body{
+
+    background-color: #000000;
+    cursor: url(pinkkitty.cur);
+}
+
+h1{
+    color: yellow;
+    font-family: 'Rockwell';
+    align-items: center;
+    justify-content: center;
+    font-size: 120px;
+    text-align: center;
+    margin-top: 10%;
+    background-color: #000000;
+}
+
+.gif_welcome{
+    align-items: center;
+    justify-content: center;
+
+}

@@ -1,0 +1,35 @@
+body {
+    background-image: url('vermelhaomexendo.gif');
+    background-attachment: fixed;
+    background-repeat: repeat;
+    }
+    
+.divider {
+    width: 20%;
+    max-width: 20%;
+    height: auto;
+}
+.divider2 {
+    width: 65%;
+    max-width: 65%;
+    height: auto;
+}
+.formLogin{
+    align-items: center;
+    justify-content: center;
+    color: yellow;
+    font-weight: bold;
+    font-size: large;
+    background-color: black;
+    width: 300px;
+    text-align: center;
+    margin-left: 50rem;
+    height: 250px;
+}
+
+
+.error-message{
+    font-size: larger;
+    color: chartreuse;  
+    background-color: black  ;
+   }
